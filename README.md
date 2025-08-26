@@ -1,6 +1,10 @@
+
 ## Simple, ToDo!
 
 Simple todo application built with Next.js (App Router), TypeScript, and TailwindCSS.
+
+![CleanShot 2025-08-26 at 20 39 41](https://github.com/user-attachments/assets/15d5d996-95f3-431c-8c96-ef19195bfcfe)
+
 
 ### Features
 
